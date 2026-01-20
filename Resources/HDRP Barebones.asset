@@ -212,7 +212,7 @@ MonoBehaviour:
   m_PrefilterUseLegacyLightmaps: 0
   m_PrefilterUseLightmapBicubicSampling: 0
   m_RenderPipelineSettings:
-    supportShadowMask: 0
+    supportShadowMask: 1
     supportSSR: 0
     supportSSRTransparent: 0
     supportSSAO: 0
@@ -250,11 +250,11 @@ MonoBehaviour:
     supportTransparentBackface: 0
     supportTransparentDepthPrepass: 0
     supportTransparentDepthPostpass: 0
-    colorBufferFormat: 74
-    depthBufferFormat: 0
+    colorBufferFormat: 48
+    depthBufferFormat: 94
     supportCustomPass: 1
     supportVariableRateShading: 1
-    customBufferFormat: 12
+    customBufferFormat: 48
     supportedLitShaderMode: 3
     planarReflectionResolution:
       m_Values: 000100000002000000020000
