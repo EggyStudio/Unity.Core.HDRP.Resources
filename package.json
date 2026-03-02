@@ -1,10 +1,11 @@
 {
   "name": "com.unityessentials.core.hdrp.resources",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "displayName": "Core HDRP Resources",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
+  "resolutionStrategy": "highestPatch",
   "dependencies": {},
   "keywords": [],
   "author": {
